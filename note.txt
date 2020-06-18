@@ -1,0 +1,6 @@
+Redux Flow
+
+Action --> MiddleWare --> Root Reducer --> Store --> DOM Changes 
+
+MiddleWare
+- Redux Logger 
